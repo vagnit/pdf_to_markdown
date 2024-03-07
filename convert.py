@@ -11,7 +11,7 @@ from marker.models import load_all_models
 from marker.settings import settings
 from marker.logger import configure_logging
 import traceback
-import json
+import json 
 
 configure_logging()
 
